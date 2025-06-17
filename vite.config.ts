@@ -9,7 +9,7 @@ export default defineConfig({
     emptyOutDir: false,
     rollupOptions: {
       input: {
-        ui: './src/ui.tsx',
+        ui: './ui.html',
         code: './src/code.ts'
       },
       output: {
