@@ -9,7 +9,7 @@
   "editorType": [
     "figma", "dev"
   ],
-  "ui": "dist/ui.js",
+  "ui": "dist/ui.html",
   "networkAccess": {
     "allowedDomains": [
       "none"
