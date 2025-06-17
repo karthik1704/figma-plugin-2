@@ -5,7 +5,7 @@ export default function App() {
     };
 
     return (
-        <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50">
+        <div className="min-h-screen flex flex-col items-center justify-center bg-red-500" style={{backgroundColor: 'red'}}>
             <h1 className="text-3xl font-bold mb-6">Figma Plugin</h1>
             <button
                 onClick={createRectangle}
